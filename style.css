@@ -1,0 +1,17 @@
+body{
+    min-width: 400px;
+}
+input{
+    width: 100%;
+    padding-top: 12px;
+    padding-bottom:12px;
+    border: 2px solid rgb(17, 255, 0);
+    box-sizing: border-box;
+}
+button{
+    margin-top: 8px;
+    margin-right: 10px;
+    padding: 10px;
+    border: none;
+    background-color:rgb(58, 236, 58);
+}
